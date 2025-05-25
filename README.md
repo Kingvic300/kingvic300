@@ -27,9 +27,10 @@ I'm a passionate **Software Developer** from Nigeria with a focus on building re
 ---
 
 ### 🌐 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/victor-oladimeji-a5a68428b)  
-- 💬 [WhatsApp](https://wa.me/2348144782521)  
-- 📧 [Gmail](mailto:oladimejivictor611e@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oladimeji-a5a68428b)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348144782521)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oladimejivictor611e@gmail.com)
 
 ---
 
