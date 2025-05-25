@@ -27,9 +27,9 @@ I'm a passionate **Software Developer** from Nigeria with a focus on building re
 ---
 
 ### 🌐 Let’s Connect
-- 💼 LinkedIn: [linkedin.com/in/victor-oladimeji-a5a68428b]
-- 💬 WhatsApp: [+2348144782521]  
-- 📧 Gmail: [oladimejivictor611e@gmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-oladimeji-a5a68428b)  
+- 💬 [WhatsApp](https://wa.me/2348144782521)  
+- 📧 [Gmail](mailto:oladimejivictor611e@gmail.com)  
 
 ---
 
