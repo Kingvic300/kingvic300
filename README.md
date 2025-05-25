@@ -22,7 +22,16 @@ I'm a passionate **Software Developer** from Nigeria with a focus on building re
 
 ### 📚 Currently Learning
 - 📱 Mobile development with **React Native** and **Flutter**  
-- 🧠 Advanced system design and distributed systems  
+- 🧠 Advanced system design and distributed systems
+
+---
+
+### 🎮 Fun Fact
+When I’m not coding, I enjoy sharpening my strategy skills with:
+- 🔫 **Call of Duty Mobile**
+- 🛡️ **Clash of Clans**
+- ♟️ **Chess**
+- 🎱 **Snooker**
 
 ---
 
@@ -34,6 +43,6 @@ I'm a passionate **Software Developer** from Nigeria with a focus on building re
 
 ---
 
-> “Code is not just syntax, it’s a solution to real problems.” – Victor Oladimeji
+> “Code is not just syntax, it’s a solution to real problems.” – Victor Oladimeji(King vic)
 
 _Thanks for stopping by! Feel free to explore my repos, ask questions, or collaborate on something cool._ 🙌
