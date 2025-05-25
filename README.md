@@ -3,7 +3,7 @@
 I'm a passionate **Software Developer** from Nigeria with a focus on building real-world solutions using modern tools and clean architecture.
 
 ### 🚀 What I Do
-- 🧰 **Backend Development** – Python (Django), Java (Spring Boot), SQL  
+- 🧰 **Backend Development** – Python (Django), Java (Spring Boot), C#(ASP.NET) SQL  
 - 🌐 **Web Applications** – Full-stack projects with JavaScript, React, and REST APIs  
 - 📱 **Mobile Development** – Learning **React Native** and **Flutter**  
 - 🔬 **Systems Programming** – Comfortable with **C++** for performance-critical tasks  
